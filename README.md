@@ -5,7 +5,9 @@ Tecnologias utilizadas:
 - Langchain
 - API da Openrouter
 
-TO-DO's
-[] Adicionar conjuntos de Ferramentas
-[] Adicionar a capacidade de Skills
+# To-do's
+- [ ] Facilitar personalização de System Prompt
+- [ ] Adicionar capacidade de Skills
+- [ ] Ferramenstas FileSystem(Read, write)
+- [ ] (...)
 
